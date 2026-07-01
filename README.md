@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hi, I'm Nands
+# 👋 Hi, I'm Nands
 
-<!--
-**Nands611/nands611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning Python and Web3 development.
 
-Here are some ideas to get you started:
+## 🚀 Learning
+- Python
+- Git & GitHub
+- Web3
+- Solana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Project
+- web3-learning
+
+## 🎯 Goal
+Build useful tools for the Web3 ecosystem.
